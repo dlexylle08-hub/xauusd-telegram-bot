@@ -8,7 +8,7 @@ import pandas as pd
 import yfinance as yf
 
 # --- CONFIGURATION FROM ENVIRONMENT VARIABLES ---
-TELEGRAM_BOT_TOKEN = os.getenv("8971343489:AAGpdAS8e8X4WrWMSr0k4pnT_Kn9xJrzors")
+TELEGRAM_BOT_TOKEN = os.getenv("8971343489:AAFZGg8NG4YV6mmNnjcft5Mkx9XG9LnMI2k")
 TELEGRAM_CHAT_ID   = os.getenv("1654653371")
 
 SYMBOL             = "GC=F"
